@@ -8,7 +8,7 @@ go through and update various solutions to make them more efficient, or rewrite 
 **Baby Steps** - Solve three problems
 
 ## Problems Solved
-**Problem 1 - Multiples of 3 and 5** Solved May 7, 2016
-**Problem 2 - Even Fibonacci Numbers** Solved May 7, 2016
-**Problem 5 - Smallest Multiple** Solved May 7, 2016
-**Problem 6 - Sum square difference** Solved May 7, 2016
+**1. Multiples of 3 and 5** Solved May 7, 2016
+**2. Even Fibonacci Numbers** Solved May 7, 2016
+**5. Smallest Multiple** Solved May 7, 2016
+**6. Sum square difference** Solved May 7, 2016
