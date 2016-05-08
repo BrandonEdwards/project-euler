@@ -16,6 +16,8 @@ go through and update various solutions to make them more efficient, or rewrite 
 
 **3. Largest Prime Factor** Solved May 7, 2016
 
+**4. Largest Palindrome Product** Solved May 8, 2016
+
 **5. Smallest Multiple** Solved May 7, 2016
 
 **6. Sum square difference** Solved May 7, 2016
