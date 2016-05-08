@@ -14,6 +14,8 @@ go through and update various solutions to make them more efficient, or rewrite 
 
 **2. Even Fibonacci Numbers** Solved May 7, 2016
 
+**3. Largest Prime Factor** Solved May 7, 2016
+
 **5. Smallest Multiple** Solved May 7, 2016
 
 **6. Sum square difference** Solved May 7, 2016
