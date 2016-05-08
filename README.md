@@ -21,3 +21,5 @@ go through and update various solutions to make them more efficient, or rewrite 
 **5. Smallest Multiple** Solved May 7, 2016
 
 **6. Sum square difference** Solved May 7, 2016
+
+**7. 10001st Prime** Solved May 8, 2016
