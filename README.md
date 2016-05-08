@@ -11,6 +11,9 @@ go through and update various solutions to make them more efficient, or rewrite 
 ## Problems Solved
 
 **1. Multiples of 3 and 5** Solved May 7, 2016
+
 **2. Even Fibonacci Numbers** Solved May 7, 2016
+
 **5. Smallest Multiple** Solved May 7, 2016
+
 **6. Sum square difference** Solved May 7, 2016
