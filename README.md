@@ -5,9 +5,11 @@ I make no guarantee that these are the most efficient way to solve the problems.
 go through and update various solutions to make them more efficient, or rewrite in another language.
 
 ## Problem Solving Awards
+
 **Baby Steps** - Solve three problems
 
 ## Problems Solved
+
 **1. Multiples of 3 and 5** Solved May 7, 2016
 **2. Even Fibonacci Numbers** Solved May 7, 2016
 **5. Smallest Multiple** Solved May 7, 2016
