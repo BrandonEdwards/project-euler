@@ -31,3 +31,5 @@ go through and update various solutions to make them more efficient, or rewrite 
 **9. Special Pythagorean Triplet** Solved May 18, 2016
 
 **10. Summation of Primes** Solved May 19, 2016
+
+**13. Large Sum** Solved May 19, 2016
