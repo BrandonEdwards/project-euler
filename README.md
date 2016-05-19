@@ -8,6 +8,8 @@ go through and update various solutions to make them more efficient, or rewrite 
 
 **Baby Steps** - Solve three problems
 
+**Decathlete** - Solve ten consecutive problems
+
 ## Problems Solved
 
 **1. Multiples of 3 and 5** Solved May 7, 2016
@@ -27,3 +29,5 @@ go through and update various solutions to make them more efficient, or rewrite 
 **8. Largest Product in a Series** Solved May 8, 2016
 
 **9. Special Pythagorean Triplet** Solved May 18, 2016
+
+**10. Summation of Primes** Solved May 19, 2016
