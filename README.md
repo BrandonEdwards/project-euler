@@ -25,3 +25,5 @@ go through and update various solutions to make them more efficient, or rewrite 
 **7. 10001st Prime** Solved May 8, 2016
 
 **8. Largest Product in a Series** Solved May 8, 2016
+
+**9. Special Pythagorean Triplet** Solved May 18, 2016
