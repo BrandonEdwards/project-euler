@@ -32,4 +32,10 @@ go through and update various solutions to make them more efficient, or rewrite 
 
 **10. Summation of Primes** Solved May 19, 2016
 
+**12. Highly Divisible Triangular Number** Solved November 3, 2016
+
 **13. Large Sum** Solved May 19, 2016
+
+**15. Lattice Paths** Solved November 3, 2016
+
+**20. Factorial Digit Sum** Solved November 3, 2016
