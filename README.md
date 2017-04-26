@@ -32,6 +32,8 @@ go through and update various solutions to make them more efficient, or rewrite 
 
 **10. Summation of Primes** Solved May 19, 2016
 
+**11. Largest Product in a Grid** Solved April 26, 2017
+
 **12. Highly Divisible Triangular Number** Solved November 3, 2016
 
 **13. Large Sum** Solved May 19, 2016
